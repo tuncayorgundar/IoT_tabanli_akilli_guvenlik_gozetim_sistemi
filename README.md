@@ -1,0 +1,1 @@
+# IoT_tabanli_akilli_g-venlik_gozetim_sistemi
